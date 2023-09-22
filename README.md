@@ -1,4 +1,5 @@
-# Fernando Ramirez's Resume
+# Chuong Tran's Resume
+
 Here is my resume:
 
-![resume](Fernando_Ramirez_Resume.png)
+![resume](ChuongTran_Resume.png)
