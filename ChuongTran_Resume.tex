@@ -4,7 +4,7 @@
 % Based off of: https://github.com/sb2nov/resume
 % License : MIT
 %------------------------
-\documentclass[letterpaper,10pt]{article}
+\documentclass[letterpaper,11pt]{article}
 
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
@@ -17,6 +17,7 @@
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
+\usepackage{ragged2e}
 \input{glyphtounicode}
 
 %----------FONT----------
@@ -36,6 +37,7 @@
 \addtolength{\textheight}{1.0in}
 
 \urlstyle{same}
+
 
 \raggedbottom
 \raggedright
@@ -74,6 +76,9 @@
 
 %-----------AWARDS-----------
 \input{src/components/awards.tex}
+
+\justifying
+
 
 %-------------------------------------------
 \end{document}
