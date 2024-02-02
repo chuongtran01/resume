@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1705981643 "/Users/chuongtran/Desktop/Projects/RESUME-GENERATOR/resume/ChuongTran_Resume.tex" "ChuongTran_Resume.pdf" "ChuongTran_Resume" 1705981644 0
+["pdflatex"] 1706889711 "/Users/chuongtran/Desktop/Projects/RESUME-GENERATOR/resume/ChuongTran_Resume.tex" "ChuongTran_Resume.pdf" "ChuongTran_Resume" 1706889712 0
   "/Users/chuongtran/Desktop/Projects/RESUME-GENERATOR/resume/ChuongTran_Resume.tex" 1705896595 1861 3ed4858b104fa56e24cbdec8c49207a1 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_vc7epu.enc" 1561498483 2837 71470f4f1f9e810bb7f97954be46f052 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_y72t7m.enc" 1561498483 2827 edb6577ce87a761a903cb37772e591dd ""
@@ -97,15 +97,15 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695350055 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695349987 7883456 df495e9dbd00da082639cb54d33e78af ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "ChuongTran_Resume.aux" 1705981644 1168 706e8262839462b6e41fd769401aaf79 "pdflatex"
-  "ChuongTran_Resume.out" 1705981644 463 465be65b0a5ff48595e1b629699d9fbc "pdflatex"
+  "ChuongTran_Resume.aux" 1706889711 1168 706e8262839462b6e41fd769401aaf79 "pdflatex"
+  "ChuongTran_Resume.out" 1706889711 463 465be65b0a5ff48595e1b629699d9fbc "pdflatex"
   "ChuongTran_Resume.tex" 1705896595 1861 3ed4858b104fa56e24cbdec8c49207a1 ""
   "src/commands/commands.tex" 1705981618 1300 ff3d71b2e85b843c63349c56b1f588ea ""
   "src/components/awards.tex" 1703645251 270 420318a4e92a23208c529168f51e3873 ""
-  "src/components/education.tex" 1705896461 538 49c6151d728dd031eaca1990527b074e ""
-  "src/components/experience.tex" 1705981643 3131 9dfe5d40754471eb52234eff3bea5503 ""
+  "src/components/education.tex" 1706889711 526 1a771dcbecc941e2b30be42f2c4daaba ""
+  "src/components/experience.tex" 1706889702 2444 61782a1ce678a8e5621dbc5b8574cef5 ""
   "src/components/heading.tex" 1695351840 396 8c9a105015305ba50899095076223aa6 ""
-  "src/components/projects.tex" 1705981339 3012 890f0113a61bfd28e912c76bf9af64d5 ""
+  "src/components/projects.tex" 1706889592 1507 637aa4fb51ca3463a3f3743c244fdcdb ""
   "src/components/skills.tex" 1705089485 443 0c3f45884a033785c40ba96aaeb20d06 ""
   (generated)
   "ChuongTran_Resume.aux"
