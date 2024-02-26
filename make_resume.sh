@@ -23,4 +23,4 @@ cp "$RESUME_FILE" "$DEST_FOLDER_1/"
 cp "$RESUME_FILE" "$DEST_FOLDER_2/"
 
 # Cleaning up auxiliary files
-rm -f *.aux *.log *.toc *.blg *.out *.bbl
+rm -f *.aux *.log *.toc *.blg *.out *.bbl *.fls *.fdb_latexmk
