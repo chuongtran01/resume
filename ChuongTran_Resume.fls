@@ -650,10 +650,6 @@ INPUT ./src/components/skills.tex
 INPUT src/components/skills.tex
 INPUT ./src/components/skills.tex
 INPUT src/components/skills.tex
-INPUT ./src/components/awards.tex
-INPUT src/components/awards.tex
-INPUT ./src/components/awards.tex
-INPUT src/components/awards.tex
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/typoland/lato/Lato-Bold-OT1-TLF.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/typoland/lato/Lato-Bold-OT1-TLF--base.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
