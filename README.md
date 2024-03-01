@@ -2,4 +2,4 @@
 
 Here is my resume:
 
-![resume](ChuongTran_Resume.png)
+![resume](ChuongTran_Resume.pdf)
